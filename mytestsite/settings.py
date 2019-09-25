@@ -25,7 +25,7 @@ SECRET_KEY = '$!)rq)^(3l3_ttyedal9e%(th((em)=2bb_y8qbzaj)p-9tw%-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'pythonwhere.com', 'arindance.pythonwhere.com']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
